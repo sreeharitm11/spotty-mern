@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 340" role="img" aria-label="Leaderboard podium">
+  <rect width="720" height="340" rx="28" fill="#f8fafc"/>
+  <g>
+    <rect x="140" y="174" width="130" height="122" rx="12" fill="#cbd5e1"/>
+    <rect x="295" y="124" width="130" height="172" rx="12" fill="#f59e0b"/>
+    <rect x="450" y="194" width="130" height="102" rx="12" fill="#fdba74"/>
+  </g>
+  <g fill="#fff" font-family="Arial, sans-serif" font-weight="700" font-size="40">
+    <text x="188" y="246">2</text>
+    <text x="343" y="226">1</text>
+    <text x="498" y="252">3</text>
+  </g>
+  <g>
+    <circle cx="205" cy="142" r="28" fill="#94a3b8"/>
+    <circle cx="360" cy="86" r="34" fill="#f59e0b"/>
+    <circle cx="515" cy="154" r="24" fill="#fb923c"/>
+  </g>
+</svg>

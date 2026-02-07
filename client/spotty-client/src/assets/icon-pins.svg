@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" role="img" aria-label="Pins icon">
+  <defs>
+    <linearGradient id="p" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+  <rect width="80" height="80" rx="20" fill="#eef2ff"/>
+  <path d="M40 14c-10 0-18 7.6-18 17 0 11.2 14.6 24 17.5 26.4a.8.8 0 0 0 1 0C43.4 55 58 42.2 58 31c0-9.4-8-17-18-17Zm0 23a6 6 0 1 1 0-12 6 6 0 0 1 0 12Z" fill="url(#p)"/>
+</svg>
