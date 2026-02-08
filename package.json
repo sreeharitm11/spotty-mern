@@ -1,0 +1,8 @@
+{
+  "name": "spotty-mern",
+  "private": true,
+  "scripts": {
+    "build": "npm --prefix client/spotty-client ci && npm --prefix client/spotty-client run build && rm -rf dist && cp -R client/spotty-client/dist ./dist"
+  }
+}
+
